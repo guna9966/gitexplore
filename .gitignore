@@ -1,0 +1,4 @@
+#comment
+
+*.js
+!app.js
