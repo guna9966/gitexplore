@@ -1,3 +1,4 @@
 it's fast forward commit 
 
-avoid fast forward
+avoid fast forward 
+avoid fast forward again
